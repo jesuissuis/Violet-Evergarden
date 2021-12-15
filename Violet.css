@@ -2498,7 +2498,7 @@
     background-color: #171717;
 }
 
-.tierMarkerAccomplished-2MiXeg,{
+.tierMarkerAccomplished-2MiXeg{
     background-color: #242424;
 }
 
@@ -2556,6 +2556,7 @@ svg.homeIcon-FuNwkv{
 }
 #app-mount .content-1o0f9g{
     background-color: black;
+}
 #bd-pub-button{
   background-color: rgba(0, 0, 0, 0.4);
 }
